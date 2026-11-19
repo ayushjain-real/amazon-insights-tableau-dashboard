@@ -1,0 +1,12 @@
+# Office lock / temp files
+~$*
+*.tmp
+
+# Tableau local files
+Tableau Repository/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
